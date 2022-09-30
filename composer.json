@@ -1,0 +1,17 @@
+{
+    "name": "phpmailer/phpmailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phpmailer\\Phpmailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jurre279",
+            "email": "40195170@roctilburg.nl"
+        }
+    ]
+}
